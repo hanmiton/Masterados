@@ -40,4 +40,11 @@
 		<nature>org.jboss.tools.cdi.core.cdinature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent</name>
+			<type>2</type>
+			<location>C:/Users/CHRISTIAN/Desktop/JavaFinal/server/wildfly-10.0.0.Final/standalone/deployments/Masterados.war</location>
+		</link>
+	</linkedResources>
 </projectDescription>
